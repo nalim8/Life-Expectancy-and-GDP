@@ -1,0 +1,15 @@
+# Life-Expectancy-and-GDP
+Analizing data on GDP and life expectancy
+
+In this project data on life expectancy and Gross Domestic Product (GDP) of six countries from the World Health Organization and the World Bank will be analyzed. The relationship between GDP and life expectancy will be identified.
+
+The goal of this project is to analize data of different countries and identify the relationship between GDP and life expectancy.
+
+This project will scope, analyze, prepare, plot data, and seek to explain the findings from the analysis.
+
+Here are a few questions that this project has sought to answer:
+
+- How did life expectancy develop over time in the six nations?
+- How did the GDP develop over time in the six nations?
+- Is there a correlation between GDP and life expectancy of a country?
+- What is the average life expectancy and GDP in these nations?
