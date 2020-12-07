@@ -1,5 +1,4 @@
 # Life-Expectancy-and-GDP
-Analizing data on GDP and life expectancy
 
 In this project data on life expectancy and Gross Domestic Product (GDP) of six countries from the World Health Organization and the World Bank will be analyzed. The relationship between GDP and life expectancy will be identified.
 
